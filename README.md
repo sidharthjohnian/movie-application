@@ -34,25 +34,25 @@ npm install express
    Method - GET 
    URL- http://localhost:8081/getComedyMovies
    Header -
-   'Authorization' - 'jwt <token you receive from login API>'
+   'Authorization' - 'jwt --token you receive from login API--'
 
    Method - GET 
    URL- http://localhost:8081/getActionMovies
    Header -
-   'Authorization' - 'jwt <token you receive from login API>'
+   'Authorization' - 'jwt --token you receive from login API--'
 
    Method - GET 
    URL- http://localhost:8081/getAnimatedMovies
    Header -
-   'Authorization' - 'jwt <token you receive from login API>'
+   'Authorization' - 'jwt --token you receive from login API--'
 
    Method - GET 
    URL- http://localhost:8081/getRomanceMovies
    Header -
-   'Authorization' - 'jwt <token you receive from login API>'
+   'Authorization' - 'jwt --token you receive from login API--'
 
    Method - GET 
    URL- http://localhost:8081/getHorrorMovies
    Header -
-   'Authorization' - 'jwt <token you receive from login API>'
+   'Authorization' - 'jwt --token you receive from login API--'
 
