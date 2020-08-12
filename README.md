@@ -15,7 +15,7 @@ A simple web application that provides movie suggestions for a user based on the
 ## Installation
 
 Pre-requisites : Package Manager - NPM should be present.
-1. Extract the 7-zip to a location 
+1. Extract the zip to a location 
 2. Open the command prompt at that location and run `npm install`.
 3. Go the folder location and run the command `node index.js` in the command prompt/terminal(this should run the server at a URL like: `http://localhost:8081/`).
 4. Browse to public/index.html and run the file in the browser.
