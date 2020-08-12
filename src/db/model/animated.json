@@ -1,0 +1,423 @@
+{
+  "page": 1,
+  "total_results": 10000,
+  "total_pages": 500,
+  "results":[
+    {
+      "popularity": 132.949,
+      "vote_count": 41,
+      "video": false,
+      "poster_path": "/vFIHbiy55smzi50RmF8LQjmpGcx.jpg",
+      "id": 703771,
+      "adult": false,
+      "backdrop_path": "/owraiceOKtSOa3t8sp3wA9K2Ox6.jpg",
+      "original_language": "en",
+      "original_title": "Deathstroke: Knights & Dragons - The Movie",
+      "genre_ids": [
+        28,
+        16
+      ],
+      "title": "Deathstroke: Knights & Dragons - The Movie",
+      "vote_average": 7.5,
+      "overview": "Ten years ago, Slade Wilson-aka the super-assassin called Deathstroke-made a tragic mistake and his wife and son paid a terrible price. Now, a decade later, Wilson's family is threatened once again by the murderous Jackal and the terrorists of H.IV.E. Can Deathstroke atone for the sins of the past-or will his family pay the ultimate price?",
+      "release_date": "2020-08-04"
+    },
+    {
+      "popularity": 104.805,
+      "vote_count": 354,
+      "video": false,
+      "poster_path": "/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg",
+      "id": 385103,
+      "adult": false,
+      "backdrop_path": "/fKtYXUhX5fxMxzQfyUcQW9Shik6.jpg",
+      "original_language": "en",
+      "original_title": "Scoob!",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        10751
+      ],
+      "title": "Scoob!",
+      "vote_average": 7.6,
+      "overview": "In Scooby-Doo’s greatest adventure yet, see the never-before told story of how lifelong friends Scooby and Shaggy first met and how they joined forces with young detectives Fred, Velma, and Daphne to form the famous Mystery Inc. Now, with hundreds of cases solved, Scooby and the gang face their biggest, toughest mystery ever: an evil plot to unleash the ghost dog Cerberus upon the world. As they race to stop this global “dogpocalypse,” the gang discovers that Scooby has a secret legacy and an epic destiny greater than anyone ever imagined.",
+      "release_date": "2020-07-08"
+    },
+    {
+      "popularity": 59.402,
+      "vote_count": 5733,
+      "video": false,
+      "poster_path": "/pjeMs3yqRmFL3giJy4PMXWZTTPa.jpg",
+      "id": 330457,
+      "adult": false,
+      "backdrop_path": "/xJWPZIYOEFIjZpBL7SVBGnzRYXp.jpg",
+      "original_language": "en",
+      "original_title": "Frozen II",
+      "genre_ids": [
+        12,
+        16,
+        10751
+      ],
+      "title": "Frozen II",
+      "vote_average": 7.3,
+      "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+      "release_date": "2019-11-20"
+    },
+    {
+      "popularity": 41.585,
+      "vote_count": 7747,
+      "video": false,
+      "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "id": 324857,
+      "adult": false,
+      "backdrop_path": "/aUVCJ0HkcJIBrTJYPnTXta8h9Co.jpg",
+      "original_language": "en",
+      "original_title": "Spider-Man: Into the Spider-Verse",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        35,
+        878
+      ],
+      "title": "Spider-Man: Into the Spider-Verse",
+      "vote_average": 8.4,
+      "overview": "Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson \"Kingpin\" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.",
+      "release_date": "2018-12-06"
+    },
+    {
+      "popularity": 52.212,
+      "vote_count": 2803,
+      "video": false,
+      "poster_path": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+      "id": 508439,
+      "adult": false,
+      "backdrop_path": "/xFxk4vnirOtUxpOEWgA1MCRfy6J.jpg",
+      "original_language": "en",
+      "original_title": "Onward",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        14,
+        10751
+      ],
+      "title": "Onward",
+      "vote_average": 7.9,
+      "overview": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
+      "release_date": "2020-02-29"
+    },
+    {
+      "popularity": 43.065,
+      "vote_count": 344,
+      "video": false,
+      "poster_path": "/MBiKqTsouYqAACLYNDadsjhhC0.jpg",
+      "id": 486589,
+      "adult": false,
+      "backdrop_path": "/bga3i5jcejBekr2FCGJga1fYCh.jpg",
+      "original_language": "en",
+      "original_title": "Red Shoes and the Seven Dwarfs",
+      "genre_ids": [
+        16,
+        10749,
+        10751
+      ],
+      "title": "Red Shoes and the Seven Dwarfs",
+      "vote_average": 7.3,
+      "overview": "Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.",
+      "release_date": "2019-07-25"
+    },
+    {
+      "popularity": 44.425,
+      "vote_count": 11958,
+      "video": false,
+      "poster_path": "/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+      "id": 177572,
+      "adult": false,
+      "backdrop_path": "/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
+      "original_language": "en",
+      "original_title": "Big Hero 6",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        35,
+        10751
+      ],
+      "title": "Big Hero 6",
+      "vote_average": 7.8,
+      "overview": "The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+      "release_date": "2014-10-24"
+    },
+    {
+      "popularity": 40.446,
+      "id": 150540,
+      "video": false,
+      "vote_count": 15267,
+      "vote_average": 7.9,
+      "title": "Inside Out",
+      "release_date": "2015-06-09",
+      "original_language": "en",
+      "original_title": "Inside Out",
+      "genre_ids": [
+        18,
+        35,
+        16,
+        10751
+      ],
+      "backdrop_path": "/okJXzeIpbdx7q8rQjJwBNr8VTEk.jpg",
+      "adult": false,
+      "overview": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Riley's guiding emotions— Joy, Fear, Anger, Disgust and Sadness—live in Headquarters, the control centre inside Riley's mind, where they help advise her through everyday life and tries to keep things positive, but the emotions conflict on how best to navigate a new city, house and school.",
+      "poster_path": "/lRHE0vzf3oYJrhbsHXjIkF4Tl5A.jpg"
+    },
+    {
+      "popularity": 38.974,
+      "vote_count": 12183,
+      "video": false,
+      "poster_path": "/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg",
+      "id": 109445,
+      "adult": false,
+      "backdrop_path": "/fydUcbkqLyESCFa9U5XKqi8dIVj.jpg",
+      "original_language": "en",
+      "original_title": "Frozen",
+      "genre_ids": [
+        12,
+        16,
+        10751
+      ],
+      "title": "Frozen",
+      "vote_average": 7.3,
+      "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+      "release_date": "2013-11-27"
+    },
+    {
+      "popularity": 38.967,
+      "vote_count": 12026,
+      "video": false,
+      "poster_path": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+      "id": 269149,
+      "adult": false,
+      "backdrop_path": "/p2fRZzxla6NoRbIH2KOZq0gHb5S.jpg",
+      "original_language": "en",
+      "original_title": "Zootopia",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        10751
+      ],
+      "title": "Zootopia",
+      "vote_average": 7.7,
+      "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+      "release_date": "2016-02-11"
+    },
+    {
+      "popularity": 37.969,
+      "vote_count": 4746,
+      "video": false,
+      "poster_path": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+      "id": 8392,
+      "adult": false,
+      "backdrop_path": "/95ozIP0A2fKaAXxwDxUEVn74Iux.jpg",
+      "original_language": "ja",
+      "original_title": "となりのトトロ",
+      "genre_ids": [
+        16,
+        14,
+        10751
+      ],
+      "title": "My Neighbor Totoro",
+      "vote_average": 8.1,
+      "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+      "release_date": "1988-04-16"
+    },
+    {
+      "popularity": 39.6,
+      "vote_count": 1017,
+      "video": false,
+      "poster_path": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg",
+      "id": 446893,
+      "adult": false,
+      "backdrop_path": "/qsxhnirlp7y4Ae9bd11oYJSX59j.jpg",
+      "original_language": "en",
+      "original_title": "Trolls World Tour",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        14,
+        10402,
+        10751
+      ],
+      "title": "Trolls World Tour",
+      "vote_average": 7.7,
+      "overview": "Queen Poppy and Branch make a surprising discovery — there are other Troll worlds beyond their own, and their distinct differences create big clashes between these various tribes. When a mysterious threat puts all of the Trolls across the land in danger, Poppy, Branch, and their band of friends must embark on an epic quest to create harmony among the feuding Trolls to unite them against certain doom.",
+      "release_date": "2020-03-12"
+    },
+    {
+      "popularity": 34.73,
+      "vote_count": 1513,
+      "video": false,
+      "poster_path": "/zKY2nJPozrItOsSCkjgY7QPkLrE.jpg",
+      "id": 41216,
+      "adult": false,
+      "backdrop_path": "/AkWLFs3qqmkQy4R4PZrIwnCl90h.jpg",
+      "original_language": "en",
+      "original_title": "Legend of the Guardians: The Owls of Ga'Hoole",
+      "genre_ids": [
+        12,
+        16,
+        14,
+        10751
+      ],
+      "title": "Legend of the Guardians: The Owls of Ga'Hoole",
+      "vote_average": 6.7,
+      "overview": "Soren, a young barn owl, is kidnapped by owls of St. Aggie's, ostensibly an orphanage, where owlets are brainwashed into becoming soldiers. He and his new friends escape to the island of Ga'Hoole, to assist its noble, wise owls who fight the army being created by the wicked rulers of St. Aggie's. The film is based on the first three books in the series.",
+      "release_date": "2010-07-10"
+    },
+    {
+      "popularity": 30.261,
+      "vote_count": 4744,
+      "video": false,
+      "poster_path": "/qEnH5meR381iMpmCumAIMswcQw2.jpg",
+      "id": 404368,
+      "adult": false,
+      "backdrop_path": "/88poTBTafMXaz73vYi3c74g0y2k.jpg",
+      "original_language": "en",
+      "original_title": "Ralph Breaks the Internet",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        10751
+      ],
+      "title": "Ralph Breaks the Internet",
+      "vote_average": 7.2,
+      "overview": "Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the World Wide Web in search of a replacement part to save Vanellope's video game, Sugar Rush. In way over their heads, Ralph and Vanellope rely on the citizens of the internet — the netizens — to help navigate their way, including an entrepreneur named Yesss, who is the head algorithm and the heart and soul of trend-making site BuzzzTube.",
+      "release_date": "2018-11-20"
+    },
+    {
+      "popularity": 33.073,
+      "vote_count": 8515,
+      "video": false,
+      "poster_path": "/zhNirNChLkDv9YCEStn857h7BoI.jpg",
+      "id": 93456,
+      "adult": false,
+      "backdrop_path": "/o4DwkUXQLgsiIf1c4L9u8PtIExA.jpg",
+      "original_language": "en",
+      "original_title": "Despicable Me 2",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "title": "Despicable Me 2",
+      "vote_average": 6.9,
+      "overview": "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.",
+      "release_date": "2013-06-25"
+    },
+    {
+      "popularity": 32.94,
+      "id": 62177,
+      "video": false,
+      "vote_count": 9866,
+      "vote_average": 7,
+      "title": "Brave",
+      "release_date": "2012-06-21",
+      "original_language": "en",
+      "original_title": "Brave",
+      "genre_ids": [
+        16,
+        12,
+        35,
+        10751,
+        28,
+        14
+      ],
+      "backdrop_path": "/qx9ts2hBYJrkIQxhryitxnLlm2u.jpg",
+      "adult": false,
+      "overview": "Brave is set in the mystical Scottish Highlands, where Mérida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Mérida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Mérida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into Mérida’s quest — and serving as comic relief — are the kingdom’s three lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable Lord Dingwall.",
+      "poster_path": "/fg57nIBn2xQw8JZKIX6AzMa3pEp.jpg"
+    },
+    {
+      "popularity": 33.93,
+      "vote_count": 5723,
+      "video": false,
+      "poster_path": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "id": 301528,
+      "adult": false,
+      "backdrop_path": "/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+      "original_language": "en",
+      "original_title": "Toy Story 4",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        14,
+        10751
+      ],
+      "title": "Toy Story 4",
+      "vote_average": 7.6,
+      "overview": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
+      "release_date": "2019-06-19"
+    },
+    {
+      "popularity": 32.91,
+      "vote_count": 3776,
+      "video": false,
+      "poster_path": "/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+      "id": 166428,
+      "adult": false,
+      "backdrop_path": "/lFwykSz3Ykj1Q3JXJURnGUTNf1o.jpg",
+      "original_language": "en",
+      "original_title": "How to Train Your Dragon: The Hidden World",
+      "genre_ids": [
+        12,
+        16,
+        10751
+      ],
+      "title": "How to Train Your Dragon: The Hidden World",
+      "vote_average": 7.8,
+      "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+      "release_date": "2019-01-03"
+    },
+    {
+      "popularity": 32.263,
+      "vote_count": 9907,
+      "video": false,
+      "poster_path": "/2TeJfUZMGolfDdW6DKhfIWqvq8y.jpg",
+      "id": 129,
+      "adult": false,
+      "backdrop_path": "/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+      "original_language": "ja",
+      "original_title": "千と千尋の神隠し",
+      "genre_ids": [
+        16,
+        14,
+        10751
+      ],
+      "title": "Spirited Away",
+      "vote_average": 8.5,
+      "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+      "release_date": "2001-07-20"
+    },
+    {
+      "popularity": 20.409,
+      "vote_count": 3,
+      "video": false,
+      "poster_path": "/7HFnV5JFTcOBr38zmxQjQQ8RATa.jpg",
+      "id": 523366,
+      "adult": false,
+      "backdrop_path": "/4bu5OLGfBhXphfR67yLlZChMz48.jpg",
+      "original_language": "en",
+      "original_title": "Dragon Rider",
+      "genre_ids": [
+        16
+      ],
+      "title": "Dragon Rider",
+      "vote_average": 1.3,
+      "overview": "An unlikely trio of heroes – a dragon, a boy and a forest brownie – embark on an epic adventure to find the “Rim of Heaven” - the mythological safe haven for all dragons.",
+      "release_date": "2020-08-06"
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "page": 1,
+  "total_results": 10000,
+  "total_pages": 500,
+  "results":[
+    {
+      "popularity": 123.88,
+      "vote_count": 123,
+      "video": false,
+      "poster_path": "/bKthjUmxjHjvJK8FktFfQdmwP12.jpg",
+      "id": 703745,
+      "adult": false,
+      "backdrop_path": "/hIHtyIYgBqHybOgUdoAmveipuiO.jpg",
+      "original_language": "en",
+      "original_title": "Deep Blue Sea 3",
+      "genre_ids": [
+        28,
+        27,
+        878
+      ],
+      "title": "Deep Blue Sea 3",
+      "vote_average": 6.7,
+      "overview": "Dr. Emma Collins and her team are spending their third summer on the island of Little Happy studying the effect of climate change on the great white sharks who come to the nearby nursery every year to give birth. Along with the last two inhabitants of this former fishing village, their peaceful life is disrupted when a \"scientific\" team led by her ex-boyfriend and marine biologist Richard show up looking for three bull sharks who we soon learn aren't just any bull sharks.",
+      "release_date": "2020-07-28"
+    },
+    {
+      "popularity": 54.352,
+      "vote_count": 88,
+      "video": false,
+      "poster_path": "/3ynPnBXQVT2Y0s19fDIPlWKUlxH.jpg",
+      "id": 587496,
+      "adult": false,
+      "backdrop_path": "/2gBMBfmQvHeOQQ5PiKiuxVdGs77.jpg",
+      "original_language": "en",
+      "original_title": "The Rental",
+      "genre_ids": [
+        18,
+        27,
+        53
+      ],
+      "title": "The Rental",
+      "vote_average": 5.7,
+      "overview": "Two couples on an oceanside getaway grow suspicious that the host of their seemingly perfect rental house may be spying on them. Before long, what should have been a celebratory weekend trip turns into something far more sinister.",
+      "release_date": "2020-07-23"
+    },
+    {
+      "popularity": 62.143,
+      "vote_count": 1197,
+      "video": false,
+      "poster_path": "/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
+      "id": 514847,
+      "adult": false,
+      "backdrop_path": "/naXUDz0VGK7aaPlEpsuYW8kNVsr.jpg",
+      "original_language": "en",
+      "original_title": "The Hunt",
+      "genre_ids": [
+        28,
+        27,
+        53
+      ],
+      "title": "The Hunt",
+      "vote_average": 6.7,
+      "overview": "Twelve strangers wake up in a clearing. They don't know where they are—or how they got there. In the shadow of a dark internet conspiracy theory, ruthless elitists gather at a remote location to hunt humans for sport. But their master plan is about to be derailed when one of the hunted turns the tables on her pursuers.",
+      "release_date": "2020-03-11"
+    },
+    {
+      "popularity": 43.882,
+      "vote_count": 759,
+      "video": false,
+      "poster_path": "/wmiC67ium8Is9Fg7PkTAK7cnHj0.jpg",
+      "id": 480105,
+      "adult": false,
+      "backdrop_path": "/3uG3aOhEzFCjcQulsJQiAzLSrw8.jpg",
+      "original_language": "en",
+      "original_title": "47 Meters Down: Uncaged",
+      "genre_ids": [
+        27
+      ],
+      "title": "47 Meters Down: Uncaged",
+      "vote_average": 5.6,
+      "overview": "Four teenage girls go on a diving adventure to explore a submerged Mayan city. Once inside, their rush of excitement turns into a jolt of terror as they discover the sunken ruins are a hunting ground for deadly great white sharks. With their air supply steadily dwindling, the friends must navigate the underwater labyrinth of claustrophobic caves and eerie tunnels in search of a way out of their watery hell.",
+      "release_date": "2019-08-15"
+    },
+    {
+      "popularity": 41.247,
+      "vote_count": 705,
+      "video": false,
+      "poster_path": "/k5H3zLwKJZv5ehhUWqCwmhkMQvY.jpg",
+      "id": 155084,
+      "adult": false,
+      "backdrop_path": "/oIMsQNY55iXQYRAdJTN9s6YDmyk.jpg",
+      "original_language": "en",
+      "original_title": "13 Sins",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "title": "13 Sins",
+      "vote_average": 6.2,
+      "overview": "Drowning in debt as he's about to get married, a bright but meek salesman receives a mysterious phone call informing him that he's on a hidden-camera game show where he must execute 13 tasks to receive a multi-million dollar cash prize.",
+      "release_date": "2014-04-18"
+    },
+    {
+      "popularity": 37.886,
+      "vote_count": 9369,
+      "video": false,
+      "poster_path": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "id": 348,
+      "adult": false,
+      "backdrop_path": "/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+      "original_language": "en",
+      "original_title": "Alien",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "title": "Alien",
+      "vote_average": 8.1,
+      "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+      "release_date": "1979-05-25"
+    },
+    {
+      "popularity": 37.217,
+      "vote_count": 31,
+      "video": false,
+      "poster_path": "/7S9RvfMBWSTlUZ4VbxDY7oLeenk.jpg",
+      "id": 581392,
+      "adult": false,
+      "backdrop_path": "/aWsVwgG324dFQS5xHEjB7OCOT9w.jpg",
+      "original_language": "ko",
+      "original_title": "반도",
+      "genre_ids": [
+        28,
+        27,
+        53
+      ],
+      "title": "Peninsula",
+      "vote_average": 6,
+      "overview": "A soldier and his team battle hordes of post-apocalyptic zombies in the wastelands of the Korean Peninsula.",
+      "release_date": "2020-07-15"
+    },
+    {
+      "popularity": 39.027,
+      "vote_count": 2602,
+      "video": false,
+      "poster_path": "/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+      "id": 570670,
+      "adult": false,
+      "backdrop_path": "/uZMZyvarQuXLRqf3xdpdMqzdtjb.jpg",
+      "original_language": "en",
+      "original_title": "The Invisible Man",
+      "genre_ids": [
+        27,
+        878,
+        53
+      ],
+      "title": "The Invisible Man",
+      "vote_average": 7.2,
+      "overview": "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
+      "release_date": "2020-02-26"
+    },
+    {
+      "popularity": 33.701,
+      "vote_count": 1993,
+      "video": false,
+      "poster_path": "/p69QzIBbN06aTYqRRiCOY1emNBh.jpg",
+      "id": 501170,
+      "adult": false,
+      "backdrop_path": "/sZAXOoOMyCbBskmqR0f4LShxXtw.jpg",
+      "original_language": "en",
+      "original_title": "Doctor Sleep",
+      "genre_ids": [
+        18,
+        14,
+        27,
+        53
+      ],
+      "title": "Doctor Sleep",
+      "vote_average": 7.1,
+      "overview": "Still irrevocably scarred by the trauma he endured as a child at the Overlook, Dan Torrance has fought to find some semblance of peace. But that peace is shattered when he encounters Abra, a courageous teenager with her own powerful extrasensory gift, known as the 'shine'. Instinctively recognising that Dan shares her power, Abra has sought him out, desperate for his help against the merciless Rose the Hat and her followers.",
+      "release_date": "2019-10-30"
+    },
+    {
+      "popularity": 35.678,
+      "vote_count": 4599,
+      "video": false,
+      "poster_path": "/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+      "id": 474350,
+      "adult": false,
+      "backdrop_path": "/8moTOzunF7p40oR5XhlDvJckOSW.jpg",
+      "original_language": "en",
+      "original_title": "It Chapter Two",
+      "genre_ids": [
+        14,
+        27
+      ],
+      "title": "It Chapter Two",
+      "vote_average": 6.9,
+      "overview": "27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.",
+      "release_date": "2019-09-04"
+    },
+    {
+      "popularity": 30.138,
+      "vote_count": 4265,
+      "video": false,
+      "poster_path": "/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg",
+      "id": 345940,
+      "adult": false,
+      "backdrop_path": "/rH79sB6Nkx4cMW3JzsUy7wK0rhX.jpg",
+      "original_language": "en",
+      "original_title": "The Meg",
+      "genre_ids": [
+        28,
+        27,
+        878
+      ],
+      "title": "The Meg",
+      "vote_average": 6.1,
+      "overview": "A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.",
+      "release_date": "2018-08-09"
+    },
+    {
+      "popularity": 45.175,
+      "vote_count": 1459,
+      "video": false,
+      "poster_path": "/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg",
+      "id": 443791,
+      "adult": false,
+      "backdrop_path": "/ww7eC3BqSbFsyE5H5qMde8WkxJ2.jpg",
+      "original_language": "en",
+      "original_title": "Underwater",
+      "genre_ids": [
+        28,
+        27,
+        878,
+        53
+      ],
+      "title": "Underwater",
+      "vote_average": 6.4,
+      "overview": "After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.",
+      "release_date": "2020-01-08"
+    },
+    {
+      "popularity": 31.67,
+      "vote_count": 11404,
+      "video": false,
+      "poster_path": "/b6ko0IKC8MdYBBPkkA1aBPLe2yz.jpg",
+      "id": 694,
+      "adult": false,
+      "backdrop_path": "/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+      "original_language": "en",
+      "original_title": "The Shining",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "title": "The Shining",
+      "vote_average": 8.2,
+      "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+      "release_date": "1980-05-23"
+    },
+    {
+      "popularity": 30.961,
+      "id": 530385,
+      "video": false,
+      "vote_count": 2676,
+      "vote_average": 7.1,
+      "title": "Midsommar",
+      "release_date": "2019-07-03",
+      "original_language": "en",
+      "original_title": "Midsommar",
+      "genre_ids": [
+        27,
+        18,
+        9648
+      ],
+      "backdrop_path": "/g6GtOfXtzDpY73ef7wludoorTti.jpg",
+      "adult": false,
+      "overview": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+      "poster_path": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg"
+    },
+    {
+      "popularity": 27.681,
+      "vote_count": 1996,
+      "video": false,
+      "poster_path": "/qJV57i1Q5u6GFyMV3FaGdD2P3IC.jpg",
+      "id": 242512,
+      "adult": false,
+      "backdrop_path": "/w8jINuXklxghTAHNxt0NQYaAN1C.jpg",
+      "original_language": "en",
+      "original_title": "Ouija",
+      "genre_ids": [
+        27
+      ],
+      "title": "Ouija",
+      "vote_average": 5.1,
+      "overview": "A group of friends must confront their most terrifying fears when they awaken the dark powers of an ancient spirit board.",
+      "release_date": "2014-10-24"
+    },
+    {
+      "popularity": 30.555,
+      "vote_count": 5879,
+      "video": false,
+      "poster_path": "/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
+      "id": 126889,
+      "adult": false,
+      "backdrop_path": "/6jajFcaY2YsfGQstJ5HaqZNVseX.jpg",
+      "original_language": "en",
+      "original_title": "Alien: Covenant",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "title": "Alien: Covenant",
+      "vote_average": 5.9,
+      "overview": "Bound for a remote planet on the far side of the galaxy, the crew of the colony ship 'Covenant' discovers what is thought to be an uncharted paradise, but is actually a dark, dangerous world—which has a sole inhabitant: the 'synthetic', David, survivor of the doomed Prometheus expedition.",
+      "release_date": "2017-05-09"
+    },
+    {
+      "popularity": 29.209,
+      "vote_count": 101,
+      "video": false,
+      "poster_path": "/3wZ0gxLqsPleneFSTZILmM3BE8Q.jpg",
+      "id": 539181,
+      "adult": false,
+      "backdrop_path": "/vpUUznNzW85xo02H16RaSxRNS1.jpg",
+      "original_language": "en",
+      "original_title": "Relic",
+      "genre_ids": [
+        18,
+        27
+      ],
+      "title": "Relic",
+      "vote_average": 6.4,
+      "overview": "When Edna—the elderly and widowed matriarch of the family—goes missing, her daughter and granddaughter travel to their remote family home to find her. Soon after her return, they start to discover a sinister presence haunting the house and taking control of Edna.",
+      "release_date": "2020-07-03"
+    },
+    {
+      "popularity": 28.031,
+      "vote_count": 5159,
+      "video": false,
+      "poster_path": "/lja0Kh17LLleh6DhtixEh7Z7T6D.jpg",
+      "id": 395992,
+      "adult": false,
+      "backdrop_path": "/nNh7vHHISVAaziJEqAq0P9iL52w.jpg",
+      "original_language": "en",
+      "original_title": "Life",
+      "genre_ids": [
+        27,
+        878,
+        53
+      ],
+      "title": "Life",
+      "vote_average": 6.4,
+      "overview": "The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected.",
+      "release_date": "2017-03-22"
+    },
+    {
+      "popularity": 26.909,
+      "vote_count": 2731,
+      "video": false,
+      "poster_path": "/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
+      "id": 338967,
+      "adult": false,
+      "backdrop_path": "/jCCdt0e8Xe9ttvevD4S3TSMNdH.jpg",
+      "original_language": "en",
+      "original_title": "Zombieland: Double Tap",
+      "genre_ids": [
+        28,
+        35,
+        27
+      ],
+      "title": "Zombieland: Double Tap",
+      "vote_average": 7,
+      "overview": "Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.",
+      "release_date": "2019-10-09"
+    },
+    {
+      "popularity": 17.859,
+      "id": 335796,
+      "video": false,
+      "vote_count": 1730,
+      "vote_average": 6,
+      "title": "Ouija: Origin of Evil",
+      "release_date": "2016-10-20",
+      "original_language": "en",
+      "original_title": "Ouija: Origin of Evil",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "backdrop_path": "/6WFqzxW9dNSJThZHUBqqOFNRj3G.jpg",
+      "adult": false,
+      "overview": "In 1965 Los Angeles, a widowed mother and her two daughters add a new stunt to bolster their séance scam business and unwittingly invite authentic evil into their home. When the youngest daughter is overtaken by the merciless spirit, this small family confronts unthinkable fears to save her and send her possessor back to the other side.",
+      "poster_path": "/cAZk4y7JZswALX6nTf5KXNjPMUE.jpg"
+    }
+  ]
+}

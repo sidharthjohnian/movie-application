@@ -1,0 +1,107 @@
+{
+	"variables": [],
+	"info": {
+		"name": "MOVIEAPPLICATION",
+		"_postman_id": "5eab66a9-1e67-729f-2b23-d672dd104dd4",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8081/login/:username/:password",
+			"request": {
+				"url": "http://localhost:8081/login/testUserName/testPassword",
+				"method": "POST",
+				"header": [],
+				"body": {},
+				"description": "Example for login API"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8081/getComedyMovies",
+			"request": {
+				"url": "http://localhost:8081/getComedyMovies",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "jwt eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJpZmllZCI6InZlcmlmaWVkIGxvZ2luIiwiaWF0IjoxNTk3MTU4NjY4fQ.YNsKCGIQAukwiX2XVu0DbzRyHGExcvtnRgnhZX-dGfo",
+						"description": ""
+					}
+				],
+				"body": {},
+				"description": "Example for getComedyMovies API"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8081/getActionMovies",
+			"request": {
+				"url": "http://localhost:8081/getActionMovies",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "jwt eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJpZmllZCI6InZlcmlmaWVkIGxvZ2luIiwiaWF0IjoxNTk3MTU4NjY4fQ.YNsKCGIQAukwiX2XVu0DbzRyHGExcvtnRgnhZX-dGfo",
+						"description": ""
+					}
+				],
+				"body": {},
+				"description": "Example for getActionMovies"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8081/getAnimatedMovies",
+			"request": {
+				"url": "http://localhost:8081/getAnimatedMovies",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "jwt eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJpZmllZCI6InZlcmlmaWVkIGxvZ2luIiwiaWF0IjoxNTk3MTU4NjY4fQ.YNsKCGIQAukwiX2XVu0DbzRyHGExcvtnRgnhZX-dGfo",
+						"description": ""
+					}
+				],
+				"body": {},
+				"description": "Example for getAnimatedMovies"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8081/getRomanceMovies",
+			"request": {
+				"url": "http://localhost:8081/getRomanceMovies",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "jwt eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJpZmllZCI6InZlcmlmaWVkIGxvZ2luIiwiaWF0IjoxNTk3MTU4NjY4fQ.YNsKCGIQAukwiX2XVu0DbzRyHGExcvtnRgnhZX-dGfo",
+						"description": ""
+					}
+				],
+				"body": {},
+				"description": "example for getRomanceMovies"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8081/getHorrorMovies",
+			"request": {
+				"url": "http://localhost:8081/getHorrorMovies",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "jwt eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJpZmllZCI6InZlcmlmaWVkIGxvZ2luIiwiaWF0IjoxNTk3MTU4NjY4fQ.YNsKCGIQAukwiX2XVu0DbzRyHGExcvtnRgnhZX-dGfo",
+						"description": ""
+					}
+				],
+				"body": {},
+				"description": "example for getHorrorMovies"
+			},
+			"response": []
+		}
+	]
+}

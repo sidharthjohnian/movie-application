@@ -1,0 +1,1 @@
+/* Write funtions to initialize the connection with the database here*/

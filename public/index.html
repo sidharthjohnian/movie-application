@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="../assets/css/style.css" />
+    <title>Movie Application</title>
+  </head>
+  <body>
+    
+    <div class="container">
+      <h1>Welcome to Movie Application</h1>
+      <div class="col-md-12" style="display: inline;">
+        <div class="col-md-6" style="display: inline;margin-right: 37%"><button id="login">Login</button><div id="message" style="display: inline;"> Click Login to secure the token needed for accessing the APIs</div></div>
+        
+        <div class="col-md-6" style="display: inline;"><button id="logOff">Log Off</button><div id="message" style="display: inline;"> Click Log off to delete the token needed for accessing the APIs</div></div>
+      </div>
+      <div id="movies-container"></div>
+    </div>
+
+    <script src="../src/views/client.js"></script>
+    <script src="../src/views/app.js"></script>
+  </body>
+</html>
